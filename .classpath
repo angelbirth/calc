@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="org/ric/strukdat/project/PStack.java|org/ric/strukdat/project/Calc.java|org/ric/strukdat/project/Operand.java|org/ric/strukdat/project/Operator.java|org/ric/strukdat/project/Operasi.java|org/ric/strukdat/project/Kurung.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/JTattoo-1.6.10.jar" sourcepath="lib/JTattoo-1.6.10-sources.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
